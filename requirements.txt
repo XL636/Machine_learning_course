@@ -1,0 +1,9 @@
+numpy
+plotly
+matplotlib
+seaborn
+panda
+nbformat
+scikit-learn
+opendatasets
+xgboost
